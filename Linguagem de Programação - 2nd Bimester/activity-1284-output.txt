@@ -1,0 +1,33 @@
+TESTE 1
+NOTAS ALTERADAS: 0
+- (001) original: 10.00 | final: 10.00
+- (002) original: 10.00 | final: 10.00
+- (003) original: 10.00 | final: 10.00
+- (004) original: 10.00 | final: 10.00
+- (005) original: 10.00 | final: 10.00
+
+TESTE 2
+NOTAS ALTERADAS: 4
+* (001) original: 07.00 | final: 09.00
+* (002) original: 06.00 | final: 08.00
+- (003) original: 10.00 | final: 10.00
+* (004) original: 01.00 | final: 03.00
+* (005) original: 09.00 | final: 10.00
+
+TESTE 3
+NOTAS ALTERADAS: 1
+- (001) original: 07.00 | final: 07.00
+- (002) original: 06.00 | final: 06.00
+- (003) original: 10.00 | final: 10.00
+- (004) original: 01.00 | final: 01.00
+* (005) original: 09.00 | final: 10.00
+
+TESTE 4
+NOTAS ALTERADAS: 0
+- (001) original: 10.00 | final: 10.00
+- (002) original: 10.00 | final: 10.00
+- (003) original: 10.00 | final: 10.00
+
+TESTE 5
+NOTAS ALTERADAS: 0
+- (001) original: 00.00 | final: 00.00
