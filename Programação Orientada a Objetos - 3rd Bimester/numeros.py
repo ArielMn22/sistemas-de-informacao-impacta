@@ -17,8 +17,6 @@ def lista_primos(n):
 		if eh_primo(i):
 			primos.append(i)
 
-	print(str(primos))
-
 	return primos
 
 def conta_primos(s):
@@ -31,7 +29,6 @@ def conta_primos(s):
 			else:
 				obj[n] = 1
 
-	print(str(obj))
 	return obj
 
 def eh_armstrong(n):
@@ -49,8 +46,6 @@ def eh_armstrong(n):
 		ehArmstrong = True
 	else:
 		ehArmstrong = False
-
-	print(str(ehArmstrong))
 
 	return ehArmstrong
 	
@@ -77,8 +72,6 @@ def eh_quase_armstrong(n):
 	else:
 		ehArmstrong = False
 
-	print(str(ehArmstrong))
-
 	return ehArmstrong
 
 def lista_armstrong(n):
@@ -88,7 +81,6 @@ def lista_armstrong(n):
 		if eh_armstrong(i):
 			armstrongs.append(i)
 
-	print(str(armstrongs))
 	return armstrongs
 
 def eh_perfeito(n):
@@ -119,5 +111,4 @@ def lista_perfeitos(n):
 		if eh_perfeito(i):
 			perfeitos.append(i)
 
-	print(str(perfeitos))
 	return perfeitos
